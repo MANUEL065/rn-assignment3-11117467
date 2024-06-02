@@ -8,7 +8,7 @@ Categories = [
     {id: 0,  name: 'Exercise', description: "12 Task", Image: require('./assets/excercise.jpg') },
     {id: 1,  name: 'Study', description: "12 Task", Image: require('./assets/study.png') },
     {id: 2,  name: 'Code', description: "12 Task", Image: require('./assets/Code.jpg') },
-    {id: 3,  name: 'Readk', description: "12 Task", Image: require('./assets/read.jpg') },
+    {id: 3,  name: 'Read', description: "12 Task", Image: require('./assets/read.jpg') },
     {id: 4,  name: 'Cook', description: "12 Task", Image: require('./assets/cook.jpg') },
     {id: 5,  name: 'Paint', description: "12 Task", Image: require('./assets/paint.jpg') },
     {id: 6,  name: 'Sport', description: "12 Task", Image: require('./assets/sport.jpg') },
