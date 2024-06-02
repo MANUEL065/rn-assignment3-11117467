@@ -1,0 +1,16 @@
+export default Task = [
+    {id: 1, name: 'Mobile App Development' },
+    {id: 3, name: 'Web development' },
+    {id: 4, name: 'Push Ups' },
+    {id: 5, name: 'Complete An Assignment' },
+    {id: 6, name: 'Taking a walk' },
+    {id: 7, name: 'Running a race' },
+    {id: 8, name: 'Group Descussion' },
+    {id: 9, name: 'Project Organization' },
+    {id: 10, name: 'Food Processing' },
+    {id: 11, name: 'Hard Labour' },
+    {id: 12, name: 'Quick Test' },
+    {id: 13, name: 'Project Management' },
+    {id: 14, name: 'Body Building' },
+    {id: 15, name: 'Cloth Production' },
+];
